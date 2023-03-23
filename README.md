@@ -1,4 +1,4 @@
-![bug](https://user-images.githubusercontent.com/123952365/226640912-54deb859-a5f5-49f1-ab40-4d0d0877e00c.gif)
-![monkey](https://user-images.githubusercontent.com/123952365/226641714-cf7c97bd-0fc4-4708-868a-c72782c4cf6e.gif)
-![dog](https://user-images.githubusercontent.com/123952365/226641519-713d92c2-df79-4ee1-b4f7-bf1dbf960475.gif)
+![coding](https://user-images.githubusercontent.com/123952365/227223131-187a1d4c-cb9a-4d57-b569-873291e1b726.gif)
+![computer](https://user-images.githubusercontent.com/123952365/227223198-98764e55-95cf-49f1-b628-517fa53a1a82.gif)
+
 
