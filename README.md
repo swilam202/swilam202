@@ -39,12 +39,11 @@ I build clean, performant, cross-platform apps with **Flutter** — backed by st
 
 <div align="center">
   <a href="https://github.com/swilam202?tab=repositories&sort=stargazers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swilam202&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swilam202&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swilam202&repo=design-patterns&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swilam202&repo=data-structures&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
-> 💡 Replace `REPO_NAME_1` / `REPO_NAME_2` above with your actual top-starred repo names (e.g. `swilam202/my-flutter-app`). GitHub doesn't allow auto-sorting pinned repos by stars in a README — [pin your repos manually here](https://github.com/swilam202?tab=repositories&sort=stargazers) and swap the names in.
 
 <br>
 
